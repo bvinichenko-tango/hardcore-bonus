@@ -1,1 +1,1 @@
-Second комітування в feature
+Second commit в feature
